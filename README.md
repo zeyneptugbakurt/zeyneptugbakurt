@@ -23,6 +23,6 @@ Gömülü sistemler, endüstriyel haberleşme ve kurumsal yazılım mimarileri �
 ### 📫 Bana Ulaşın
 
 - **E-posta:** kurtzeyneptugba@gmail.com
-- **LinkedIn:** [Profil Linkini Buraya Ekle](https://linkedin.com/in/senin-profilin)
+- **LinkedIn:** www.linkedin.com/in/zeyneptugbakurt
 
 
