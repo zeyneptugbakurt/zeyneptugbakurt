@@ -1,6 +1,6 @@
 # Merhaba, Ben Zeynep Tuğba Kurt! 👋
 
-🎓 **İstanbul Medeniyet Üniversitesi**'nde Bilgisayar Mühendisliği 2. sınıf öğrencisiyim. 
+🎓 **İstanbul Medeniyet Üniversitesi**'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. 
 Gömülü sistemler, endüstriyel haberleşme ve kurumsal yazılım mimarileri üzerine çalışmaktan keyif alıyorum. Donanım ve yazılımın kesiştiği noktada yenilikçi çözümler üretmeyi seviyorum.
 
 ### 🚀 Neler Yapıyorum?
@@ -17,7 +17,7 @@ Gömülü sistemler, endüstriyel haberleşme ve kurumsal yazılım mimarileri �
 
 **Diller & Temel:** `C` | `Python` | `Java` | `Veri Yapıları ve Algoritmalar`
 
-**Gömülü Sistemler & Haberleşme:** `STM32 (F407, Nucleo F446RE)` | `Arduino` | `CAN Bus` | `UART` 
+**Gömülü Sistemler & Haberleşme:** `STM32 (F407, Nucleo F446RE)` | `ESP32` | `Arduino` | `CAN Bus` | `UART` 
 
 
 ### 📫 Bana Ulaşın
