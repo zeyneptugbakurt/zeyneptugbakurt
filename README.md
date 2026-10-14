@@ -5,19 +5,19 @@ Gömülü sistemler, endüstriyel haberleşme ve kurumsal yazılım mimarileri �
 
 ### 🚀 Neler Yapıyorum?
 
- **Hidrojen Yönetim Sistemi (HYS):** Hidromobil projeleri kapsamında MQ-8 ve LM35 sıcaklık sensörlerinden hidrojen (PPM) seviyelerini izleyerek güvenlik valflerini kontrol eden ve CAN Bus üzerinden haberleşen sistemler geliştirdim
+ **Hidrojen Yönetim Sistemi :** Hidromobil araç yarışması kapsamında MQ-8 gaz sensöründen ADC,DMA kullanarak çeşitli dönüşümlerle ortamdaki gaz yoğunluğunu (ppm) ve MAXX6675 Termokupl sıcaklık sensöründen ise SPI ile yakıt hücresi yüzey sıcaklığı verilerini izleyerek güvenlik valflerini kontrol eden ve CAN Bus üzerinden haberleşen sistemler geliştirdim.
 
-**BMT Mach (Teknofest Takımı):** Hidromobil araçlar için Batarya Yönetim Sistemi (BMS) gömülü yazılımları ve araç içi sistemlerin haberleşme altyapıları üzerine çalışıyorum.
+ **Batarya Yönetim Sistemi :** Hidromobil araç yarışması kapsamında hazır olarak kullandığımız Daly Smart Active BMS ile ESP32 kullanarak Bluetooth üzerinden haberleşen bir yazılım geliştirdim. Bu yazılımda tekil hücre gerilimleri ve akımları, max/min hücre sıcaklıkları, hata uyarıları gibi verileri izleyerek manuel olarak şarjı açıp kapatan bir sistem bulunuyor.
 
-**Endüstriyel Otomasyon:** Siemens S7-1200 PLC cihazları ile kurumsal veritabanları (FileMaker) arasında gerçek zamanlı veri alışverişini sağlayan Python tabanlı projeler geliştiriyorum.
 
-**Prozen Yazılım:** MRP ve ERP alanlarını öğreniyorum.Banka ve yapay zeka entegrasyonları geliştiriyorum.Filemaker ile matbaa yönetim programının alt yapısını öğreniyorum.
+
+**Prozen Yazılım:** MRP ve ERP alanlarını öğreniyorum.API ile banka ve yapay zeka entegrasyonları geliştiriyorum.Filemaker ile matbaa yönetim programının alt yapısını öğreniyorum.
 
 ### 💻 Teknoloji Yığınım
 
-**Diller & Temel:** `C` | `Python` | `Java` | `Veri Yapıları ve Algoritmalar`
+**Diller & Temel:** `C` | `Python` | `Java` | `HTML` | `CSS`
 
-**Gömülü Sistemler & Haberleşme:** `STM32 (F407, Nucleo F446RE)` | `ESP32` | `Arduino` | `CAN Bus` | `UART` 
+**Gömülü Sistemler & Haberleşme:** `STM32 (F407, Nucleo F446RE)` | `ESP32` | `Arduino` | `CAN Bus` | `UART` | `SPI` |
 
 
 ### 📫 Bana Ulaşın
